@@ -9,7 +9,7 @@ lines = File.readlines()
 def ChangeStatus(message):
 
 	header = {
-	"authorization": "MTI4MzUzMjgxNzAwNjk4NTIxOA.GDVmoH.Uh11EWhtanDspw7lOgTdodm7K_YrzL6wXJQzlY"
+	"authorization": "MTI4MzUzMjgxNzAwNjk4NTIxOA.G632vv.2I9MHd0pdKHXhFWuF8lAI5HUgONr6n212eNRz8"
 	}
 
 	jsonData = {
