@@ -1,7 +1,7 @@
 import time
 import requests
 
-url = "https://discord.com/api/v9/users/1283532817006985218/profile"
+url = "https://discord.com/api/v9/users/1283532817006985218/profile" 
 
 File = open("Words.txt", "r")
 lines = File.readlines()
@@ -9,7 +9,7 @@ lines = File.readlines()
 def ChangeStatus(message):
 
 	header = {
-	"authorization": "MTI4MzUzMjgxNzAwNjk4NTIxOA.G632vv.2I9MHd0pdKHXhFWuF8lAI5HUgONr6n212eNRz8"
+	Authorization?: "MTI4MzUzMjgxNzAwNjk4NTIxOA.G632vv.2I9MHd0pdKHXhFWuF8lAI5HUgONr6n212eNRz8";
 	}
 
 	jsonData = {
