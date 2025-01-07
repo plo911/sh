@@ -1,7 +1,7 @@
 import time
 import requests
 
-url = "https://discord.com/api/v9/users/@me/settings"
+url = "https://discord.com/api/v9/users/1283532817006985218/profile"
 
 File = open("Words.txt", "r")
 lines = File.readlines()
