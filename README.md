@@ -1,7 +1,7 @@
 # sh
 
 ## Description
-Only for the developer.
+Only for the developers.
 
 ## Usage
 1. Navigate to the folder where you extracted the ZIP file.
